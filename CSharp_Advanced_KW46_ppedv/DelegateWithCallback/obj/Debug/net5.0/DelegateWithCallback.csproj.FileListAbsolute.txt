@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\DelegateWithCallback.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\DelegateWithCallback.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\DelegateWithCallback.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\DelegateWithCallback.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\DelegateWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\ref\DelegateWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\bin\Debug\net5.0\DelegateWithCallback.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\ref\DelegateWithCallback.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegateWithCallback\obj\Debug\net5.0\DelegateWithCallback.genruntimeconfig.cache

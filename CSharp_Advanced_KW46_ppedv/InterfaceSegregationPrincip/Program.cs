@@ -74,6 +74,11 @@ namespace InterfaceSegregationPrincip
             throw new NotImplementedException();
         }
 
+        public IList<T> GetByStatement(Func<int, bool> predicate)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Insert(T item)
         {
             throw new NotImplementedException();

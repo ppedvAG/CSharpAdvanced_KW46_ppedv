@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\EventsEventHandlerSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\EventsEventHandlerSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\EventsEventHandlerSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\EventsEventHandlerSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\EventsEventHandlerSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\ref\EventsEventHandlerSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\bin\Debug\net5.0\EventsEventHandlerSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\ref\EventsEventHandlerSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.genruntimeconfig.cache
