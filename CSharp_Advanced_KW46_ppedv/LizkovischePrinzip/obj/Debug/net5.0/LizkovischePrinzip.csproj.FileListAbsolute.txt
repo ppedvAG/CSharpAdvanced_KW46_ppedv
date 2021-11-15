@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\LizkovischePrinzip.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\LizkovischePrinzip.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\LizkovischePrinzip.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\LizkovischePrinzip.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\LizkovischePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\ref\LizkovischePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\bin\Debug\net5.0\LizkovischePrinzip.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\ref\LizkovischePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\LizkovischePrinzip\obj\Debug\net5.0\LizkovischePrinzip.genruntimeconfig.cache

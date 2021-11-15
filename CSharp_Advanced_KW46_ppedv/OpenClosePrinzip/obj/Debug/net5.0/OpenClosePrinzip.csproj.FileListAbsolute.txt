@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClose
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\ref\OpenClosePrinzip.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.csproj.AssemblyReference.cache

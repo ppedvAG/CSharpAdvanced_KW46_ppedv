@@ -21,5 +21,10 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

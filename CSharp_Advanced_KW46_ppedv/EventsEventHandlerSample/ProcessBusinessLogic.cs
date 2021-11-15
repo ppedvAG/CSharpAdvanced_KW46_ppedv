@@ -21,6 +21,9 @@ namespace EventsEventHandlerSample
         {
             for (int i = 0; i < 100; i++)
             {
+
+                //REchentinsentive passiert hier 
+
                 //wollen eine Prozentausgabe nach draußen ermöglichen 
                 OnCurrentPercentStatus(i);
             }

@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEve
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\ref\EventsEventHandlerSample.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\EventsEventHandlerSample\obj\Debug\net5.0\EventsEventHandlerSample.csproj.AssemblyReference.cache

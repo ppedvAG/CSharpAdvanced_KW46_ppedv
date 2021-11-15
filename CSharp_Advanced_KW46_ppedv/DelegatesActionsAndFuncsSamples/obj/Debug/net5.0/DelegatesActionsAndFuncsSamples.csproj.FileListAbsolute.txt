@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\Delegates
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegatesActionsAndFuncsSamples\obj\Debug\net5.0\ref\DelegatesActionsAndFuncsSamples.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegatesActionsAndFuncsSamples\obj\Debug\net5.0\DelegatesActionsAndFuncsSamples.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegatesActionsAndFuncsSamples\obj\Debug\net5.0\DelegatesActionsAndFuncsSamples.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DelegatesActionsAndFuncsSamples\obj\Debug\net5.0\DelegatesActionsAndFuncsSamples.csproj.AssemblyReference.cache
