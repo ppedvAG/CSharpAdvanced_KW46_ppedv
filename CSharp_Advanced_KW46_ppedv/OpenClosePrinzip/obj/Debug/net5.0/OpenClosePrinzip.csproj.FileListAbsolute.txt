@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\OpenClosePrinzip.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\OpenClosePrinzip.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\OpenClosePrinzip.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\OpenClosePrinzip.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\ref\OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\bin\Debug\net5.0\OpenClosePrinzip.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\ref\OpenClosePrinzip.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\OpenClosePrinzip\obj\Debug\net5.0\OpenClosePrinzip.genruntimeconfig.cache
