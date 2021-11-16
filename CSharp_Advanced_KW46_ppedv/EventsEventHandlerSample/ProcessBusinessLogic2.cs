@@ -8,19 +8,10 @@ namespace EventsEventHandlerSample
 {
     public class ProcessBusinessLogic2
     {
-        public event EventHandler ProcessCompleted;
+        public event EventHandler ProcessCompleted; //Funktionzeiger
         public event EventHandler ProcessCompletedNew; 
 
-        protected virtual void OnProcessCompleted(EventArgs e)
-        {
-            if (ProcessCompleted != null)
-                ProcessCompleted?.Invoke(this, e); 
-        }
-        protected virtual void OnProcessCompletedNew(MyEventArgs e)
-        {
-            if (ProcessCompletedNew != null)
-                ProcessCompletedNew?.Invoke(this, e);
-        }
+        
 
 
         public void StartProcess()
@@ -35,12 +26,25 @@ namespace EventsEventHandlerSample
             OnProcessCompletedNew(myEventArgs);
         }
 
-        
+        protected virtual void OnProcessCompleted(EventArgs e)
+        {
+            //Hast du ein Funktionszeiger drangehängt
+            if (ProcessCompleted != null)
+                ProcessCompleted?.Invoke(this, e);
+        }
+        protected virtual void OnProcessCompletedNew(MyEventArgs e)
+        {
+            if (ProcessCompletedNew != null)
+                ProcessCompletedNew?.Invoke(this, e);
+        }
+
+
     }
 
 
     public class MyEventArgs : EventArgs
     {
         public DateTime Uhrzeit { get; set; }
+        //...weitere Poperties
     }
 }

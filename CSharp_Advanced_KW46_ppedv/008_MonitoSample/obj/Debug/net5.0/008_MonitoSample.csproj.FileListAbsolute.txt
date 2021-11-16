@@ -1,0 +1,4 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.csproj.CoreCompileInputs.cache

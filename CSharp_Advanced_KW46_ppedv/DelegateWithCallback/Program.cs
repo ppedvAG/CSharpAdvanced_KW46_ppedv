@@ -13,7 +13,7 @@ namespace DelegateWithCallback
         {
 
             //Beispiel 1:
-            MessageDelegate messageDelegate = new MessageDelegate(FinishResultMethode);
+            MessageDelegate messageDelegate = new MessageDelegate(FinishResultMethode); //Funktionzeiger
             messageDelegate("Hallo Welt");
             MethodWithCallback(11, 22, messageDelegate);
 
@@ -35,7 +35,7 @@ namespace DelegateWithCallback
 
             //Callbacks werden immer ganz am Ende einer Verarbeitung aufgerufen. 
             //Ganz am Ende möchte ich nach draußen, Kommunizieren, dass ich fertig bin!
-            messageDelegate("This Result is " + (param1 + param2).ToString());
+            messageDelegate("This Result is " + (param1 + param2).ToString()); //ruft die FinishResultMethode auf
         }
 
         public static void MethodWithCallback(int param1, int param2, Action<string> messageDelegate)

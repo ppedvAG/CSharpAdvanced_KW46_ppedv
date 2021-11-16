@@ -34,7 +34,7 @@ namespace DelegatesActionsAndFuncsSamples
 
 
 
-            CalculationsDelegate calculationsDelegate = new CalculationsDelegate(Addition);
+            CalculationsDelegate calculationsDelegate = new CalculationsDelegate(Addition); //Funktionszeiger wird hier übergeben
 
             //bekomme 33 zurück
             result = calculationsDelegate(11, 22);
@@ -55,7 +55,6 @@ namespace DelegatesActionsAndFuncsSamples
 
             Func<int, int, float, float> func1 = new Func<int, int, float, float>(E);
             float floatResult = func1(11, 22, 3.33f); //36,33
-
 
         }
 

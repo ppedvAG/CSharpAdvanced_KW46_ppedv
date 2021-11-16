@@ -47,6 +47,14 @@ namespace Übung_Solid1
                 // Report generation with employee data in PDF.
             }
         }
+
+        //1. ) 3. Klassen 
+        //          Klasse 1: Datenstruktur
+        //          Klasse 2: abstrakt ReportKlasse / public  interface 
+        //               Klasse 2a / 2b -> Generierte Methode für PDF / CrystalReports 
+        //          Klasse 3: EmployeeRepository - Klasse
+
+
     }
 
     #endregion
