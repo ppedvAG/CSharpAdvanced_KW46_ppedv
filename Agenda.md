@@ -12,20 +12,23 @@ Montag:
 - [x] Erweiterungsmethoden
 
 Dienstag:
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
-- [ ] Generics
+- [x] Threading
+- [x] TPL
+- [x] async / await
+- [x] Generics
 - [ ] Reflections 
 - [ ] Plugin-Pattern 
 
 Mittwoch:
-- [ ] C# 7.0 -> 9.0 (10.0)
-- [ ] Linq / Lambda 
-- [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen 
-- [ ] OOP -> Crashkurs
-- [ ] StructVsClasses 
+- [ ] C# 7.0 -> 9.0 (10.0) (2Std)
+  - [ ] Records mit Klassen und Records von Structs
+  - [ ] StructVsClasses (optionale)
+- [ ] Linq / Lambda (30Min)
+- [ ] Operatoren (15-20)
+- [ ] Anonyme Typen + dynamische Typen (15)
+- [ ] OOP -> Crashkurs (optionale)
+
+- [ ] 
 - [ ] oder WebAPI 
 - [ ] .NET 6 Vorblick -> mit Beispielen 
 - [ ] Evolution von DesignPatterns -> Builder-Pattern oder Singleton 

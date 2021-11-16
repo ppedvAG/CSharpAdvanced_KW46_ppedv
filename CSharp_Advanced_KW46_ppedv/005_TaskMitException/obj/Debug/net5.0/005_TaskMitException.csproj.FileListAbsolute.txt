@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\005_TaskMitException.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\005_TaskMitException.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\005_TaskMitException.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\005_TaskMitException.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\005_TaskMitException.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\ref\005_TaskMitException.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\bin\Debug\net5.0\005_TaskMitException.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\ref\005_TaskMitException.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\005_TaskMitException\obj\Debug\net5.0\005_TaskMitException.genruntimeconfig.cache

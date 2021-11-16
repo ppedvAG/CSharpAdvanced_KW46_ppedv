@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\008_TaskWhenSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\008_TaskWhenSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\008_TaskWhenSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\008_TaskWhenSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\008_TaskWhenSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\ref\008_TaskWhenSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\bin\Debug\net5.0\008_TaskWhenSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\ref\008_TaskWhenSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_TaskWhenSample\obj\Debug\net5.0\008_TaskWhenSample.genruntimeconfig.cache

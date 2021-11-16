@@ -13,7 +13,7 @@ namespace _002_Task_Beenden
 
             Task easyTask = new Task(MeineMethodeMitAbbrechen, cts); //cts ist ein Referenztyp
             easyTask.Start(); //eplizietes starten des Tasks
-
+            
             Thread.Sleep(5000);
             cts.Cancel();
             Console.WriteLine("Fertig");

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "005_TaskMitException/1.0.0": {
+        "runtime": {
+          "005_TaskMitException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "005_TaskMitException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
