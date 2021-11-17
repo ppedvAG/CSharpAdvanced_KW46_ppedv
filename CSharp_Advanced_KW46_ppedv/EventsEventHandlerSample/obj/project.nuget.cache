@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bcUAWsJA2fPgo5nrZWr18VlZHjhyhYrMYy6ZIpnUBgwE8chxaPdQh0NO3GL14A5UEpyAf9kmgVQBJl7HtSj4PQ==",
+  "dgSpecHash": "EvYDQkydIlI8ctlNW4mNQW6mCJ1I4yE0sJMKTJt6+dZOx1zxxRAIODCiqkrpd9pABXyyTkliNHaia7SaQ7AeAg==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\EventsEventHandlerSample\\EventsEventHandlerSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nNskmG3moPHyCAHr88FhK3NkgPca9cPBz2X/gMaGc9nIgGgI5L3+UNsz/BmukGLLiW2wMkSlCAMb/P96IeD90A==",
+  "dgSpecHash": "xU3Bp8XUMcsliXM+nloGH4kZ/Ypfi2v0DLga3LIqiZd7osalEf83JbEXeCIa4Vh9qxW+Uv+oqIWOJXZ8QCQhPA==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\GenericsSample\\GenericsSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

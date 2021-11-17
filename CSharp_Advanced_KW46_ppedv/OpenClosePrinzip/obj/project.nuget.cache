@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "al5BcPitv1vYo4z04InJYUm06ynO9+NqqeoUnOxz/Pyai9nElrDpGIil/9I22RRmzEVe1JE1lQ+DqrojQG49lw==",
+  "dgSpecHash": "fnFzy95A8lFcJpGdMONV6euS8tV4s7/6wHvqXzNxlqzhkChLPyYmQb96eWDtQfaOLX823Blqo9ZiZh0kScIadw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\OpenClosePrinzip\\OpenClosePrinzip.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

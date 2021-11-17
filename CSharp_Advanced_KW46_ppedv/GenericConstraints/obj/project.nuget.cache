@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jCwaV3BM85Rn6uoYVQqKuaIpYJvUU1vuX+b++8wdDov23tuMTsyBC6/FjM8VhR8ord5ZfwkGmG9tLjm02VK19w==",
+  "dgSpecHash": "mnd3ak9J+ALRd12CFd3hROGYJ7AZYN3qCBUPvu96HjXOld8OYFCHDJBRGdU3LIg/RGGN+fbTz2fPOkxtUa5Edg==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\GenericConstraints\\GenericConstraints.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

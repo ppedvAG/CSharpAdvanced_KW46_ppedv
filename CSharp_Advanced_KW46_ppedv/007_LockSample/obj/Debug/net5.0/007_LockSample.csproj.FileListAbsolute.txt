@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\007_LockS
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\007_LockSample\obj\Debug\net5.0\ref\007_LockSample.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\007_LockSample\obj\Debug\net5.0\007_LockSample.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\007_LockSample\obj\Debug\net5.0\007_LockSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\007_LockSample\obj\Debug\net5.0\007_LockSample.csproj.AssemblyReference.cache

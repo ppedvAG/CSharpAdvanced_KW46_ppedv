@@ -13,3 +13,4 @@ C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\HelloRefl
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\HelloReflections\obj\Debug\net5.0\ref\HelloReflections.dll
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\HelloReflections\obj\Debug\net5.0\HelloReflections.pdb
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\HelloReflections\obj\Debug\net5.0\HelloReflections.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\HelloReflections\obj\Debug\net5.0\HelloReflections.csproj.AssemblyReference.cache

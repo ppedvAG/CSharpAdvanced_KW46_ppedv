@@ -2,3 +2,15 @@ C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_Monit
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.AssemblyInfo.cs
 C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\008_MonitoSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\008_MonitoSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\008_MonitoSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\008_MonitoSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\008_MonitoSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\ref\008_MonitoSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\bin\Debug\net5.0\008_MonitoSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\ref\008_MonitoSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\008_MonitoSample\obj\Debug\net5.0\008_MonitoSample.genruntimeconfig.cache

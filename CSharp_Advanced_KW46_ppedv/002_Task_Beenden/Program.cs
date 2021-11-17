@@ -10,8 +10,10 @@ namespace _002_Task_Beenden
         {
             //Obwohl die Klasse im Namespace System.Threading liegt, wurde CancellationTokenSource ab .NET 4.0 hinzugefügt
             CancellationTokenSource cts = new CancellationTokenSource();
-
+           
             Task easyTask = new Task(MeineMethodeMitAbbrechen, cts); //cts ist ein Referenztyp
+
+            
             easyTask.Start(); //eplizietes starten des Tasks
             
             Thread.Sleep(5000);
@@ -21,7 +23,7 @@ namespace _002_Task_Beenden
         }
 
 
-        public static void MeineMethodeMitAbbrechen(object param)
+        public static void MeineMethodeMitAbbrechen(object param) //Referenzobjekt wird übergeben
         {
             CancellationTokenSource source = (CancellationTokenSource)param;
 

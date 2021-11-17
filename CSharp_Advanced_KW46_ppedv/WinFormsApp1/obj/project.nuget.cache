@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lBKj+1qXZZTwZhkRE3adeRvhwwHEH36bUMupVsgbV/KiXIFOObvrsXFHCQTP2+EdgD57uC55CzdL2/Gxgeus7g==",
+  "dgSpecHash": "fI2KBMOnWrONGvaB6J8XzIhlLuo6tDCjr1qMjwkhaz0DGAtbxyLCeGyDsmQxa3n0pxheS68WOJPhsVeG+8nfxQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\WinFormsApp1\\WinFormsApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

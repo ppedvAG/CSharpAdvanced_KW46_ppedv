@@ -16,8 +16,8 @@ Dienstag:
 - [x] TPL
 - [x] async / await
 - [x] Generics
-- [ ] Reflections 
-- [ ] Plugin-Pattern 
+- [x] Reflections 
+- [x] Plugin-Pattern 
 
 Mittwoch:
 - [ ] C# 7.0 -> 9.0 (10.0) (2Std)

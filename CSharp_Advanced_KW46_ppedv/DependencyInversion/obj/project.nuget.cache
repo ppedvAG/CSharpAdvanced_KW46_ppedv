@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xeRP9hoKt/R53unnct4o1yqsL+5J15OD7/SUNUPWmDXE3qQ3GeAvrquEidSfBVR1J+MdwX088fX6WXsh9vt4Fw==",
+  "dgSpecHash": "Hz0oA/6A9nwi9g8B+SnyAl1/fS1Pt865CTDiouFzC+n6jMT7fzzCy4rTWYsbfJ+zz9yz1dyAsAoILNIeOh+cBw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\DependencyInversion\\DependencyInversion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

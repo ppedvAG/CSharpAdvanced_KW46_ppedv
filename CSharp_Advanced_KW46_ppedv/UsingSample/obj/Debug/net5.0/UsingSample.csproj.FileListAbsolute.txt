@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\UsingSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\UsingSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\UsingSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\UsingSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\UsingSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\ref\UsingSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\bin\Debug\net5.0\UsingSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\ref\UsingSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\UsingSample\obj\Debug\net5.0\UsingSample.genruntimeconfig.cache

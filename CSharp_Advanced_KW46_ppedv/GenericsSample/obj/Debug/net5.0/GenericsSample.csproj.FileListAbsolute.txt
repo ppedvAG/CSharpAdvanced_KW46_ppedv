@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\GenericsSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\GenericsSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\GenericsSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\GenericsSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\GenericsSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\ref\GenericsSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\bin\Debug\net5.0\GenericsSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\ref\GenericsSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\GenericsSample\obj\Debug\net5.0\GenericsSample.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.Form1.resources
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.Properties.Resources.resources
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\DatabaseFirstSample.exe.config
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\DatabaseFirstSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\DatabaseFirstSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\EntityFramework.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\EntityFramework.xml
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\DatabaseFirstSample\obj\Debug\DatabaseFirstSample.pdb

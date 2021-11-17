@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\AsyncAwaitPatternSample.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\AsyncAwaitPatternSample.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\AsyncAwaitPatternSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\AsyncAwaitPatternSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\AsyncAwaitPatternSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\ref\AsyncAwaitPatternSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\bin\Debug\net5.0\AsyncAwaitPatternSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\ref\AsyncAwaitPatternSample.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\AsyncAwaitPatternSample\obj\Debug\net5.0\AsyncAwaitPatternSample.genruntimeconfig.cache

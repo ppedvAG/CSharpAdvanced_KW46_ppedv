@@ -20,7 +20,7 @@ namespace _007_LockSample
         {
             Random r = new Random();
 
-            for (int i = 0; i < 50; i++)
+            for (int i = 0; i < 500000; i++)
             {
                 int auswahl = r.Next(0, 10);
 

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HxF8KJPH8CPUAqTPRBHlL7URya0eBazmaBXpeIay+nNLo8uGRh3Wmza5LVlP91KLzil3aoPFDBPvM74nRAZU2A==",
+  "dgSpecHash": "t9IxCyMPzSY/sV105S/veopmhl08u2B3yztjZCEDVh/QiaX+PmFMCu1GIT8AamLEQICkNUsdY6HY0aikxNDMEg==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\005_ThreadWithCallback\\005_ThreadWithCallback.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

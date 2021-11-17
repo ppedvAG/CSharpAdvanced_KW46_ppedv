@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "if0oNCgVvDsoc3wJAObfS4+1jfnS0hmERgc77aQc2gtgrGrSa0NanXBHXRut2CA77yDKsJGI6O76Nf8BpUyiAg==",
+  "dgSpecHash": "5HRdPQaQ8nULUEdBJOPc+n3S4I2trRhnzK0nxb+0oWocSM7ZyQx/eyJeDp/FcMHoqsiG1x5GEMG0oJo8t0PIuw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\008_MonitoSample\\008_MonitoSample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
