@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZtKllk7tYK6WJB43d/4qbNaw1ozvT+GLNLJhk6QYGnrHfT66K4B454pFzfZM0xHm8Mx9HPO9w/h8eZMivuKOw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharpAdvanced_KW46_ppedv\\CSharp_Advanced_KW46_ppedv\\RecordSamples\\RecordSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

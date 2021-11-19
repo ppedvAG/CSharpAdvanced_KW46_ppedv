@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\RecordSamples.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\RecordSamples.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\RecordSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\RecordSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\RecordSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\ref\RecordSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\bin\Debug\net5.0\RecordSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\ref\RecordSamples.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW46_ppedv\CSharp_Advanced_KW46_ppedv\RecordSamples\obj\Debug\net5.0\RecordSamples.csproj.AssemblyReference.cache
